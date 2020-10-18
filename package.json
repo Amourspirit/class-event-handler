@@ -14,6 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/Amourspirit/class-event-handler.git"
   },
+  "files": [
+    "dist/"
+  ],
   "jest": {
     "transform": {
       ".(ts|tsx)": "ts-jest"

@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://travis-ci.org/Amourspirit/class-event-handler"><img src="https://travis-ci.org/Amourspirit/class-event-handler.svg?branch=master" /></a>
+<a href="https://snyk.io/test/github/Amourspirit/class-event-handler?targetFile=package.json">
+<img src="https://snyk.io/test/github/Amourspirit/class-event-handler/badge.svg?targetFile=package.json" /></a>
+<a href="https://www.npmjs.com/package/class-event-handler"><img alt="node" src="https://img.shields.io/node/v/class-event-handler.svg"></a>
+<img src="https://img.shields.io/github/package-json/v/Amourspirit/class-event-handler.svg" />
+<img src="https://img.shields.io/github/license/Amourspirit/class-event-handler.svg" />
+<a href="https://github.com/badges/stability-badges"> <img src="https://badges.github.io/stability-badges/dist/stable.svg" /></a>
+</p>
+
 # CLASS-EVENT-HANDLER
 
 Event Handler for esm and commonJs
